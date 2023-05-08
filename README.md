@@ -6,6 +6,7 @@
 
   <summary>Contents</summary>
 
+1. [About](#about)
 1. [Brainstorm](#brainstorm)
    1. [Name Idea](#name-ideas)
    1. [Features From Other Apps](#features-from-other-apps)
@@ -17,6 +18,10 @@
    1. [Settings](#settings)
 
 </details>
+
+## About
+
+My music player.
 
 ## Brainstorm
 
