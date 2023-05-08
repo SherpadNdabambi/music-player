@@ -44,6 +44,7 @@
 
 1. Now Playing list synchronized across devices
 1. Party mode
+1. Search songs by lyrics
 
 #### Party Mode
 
