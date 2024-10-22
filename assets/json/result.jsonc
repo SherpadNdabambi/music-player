@@ -1,0 +1,620 @@
+// https://api.genius.com/search?q=Stand%20By%20Me&access_token=L8vIpj2qqsbia47B3tV_qCIJgrbWCuvy-TFANavS3cosgKGW901rMV6ufGu_HSQc
+{
+  "meta": { "status": 200 },
+  "response": {
+    "hits": [
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 9,
+          "api_path": "/songs/72156",
+          "artist_names": "Ben E. King",
+          "full_title": "Stand By Me by Ben E. King",
+          "header_image_thumbnail_url": "https://images.genius.com/30f2c82ee0c5531ae44d1e8f5a3c9617.220x220x1.jpg",
+          "header_image_url": "https://images.genius.com/30f2c82ee0c5531ae44d1e8f5a3c9617.220x220x1.jpg",
+          "id": 72156,
+          "lyrics_owner_id": 96688,
+          "lyrics_state": "complete",
+          "path": "/Ben-e-king-stand-by-me-lyrics",
+          "primary_artist_names": "Ben E. King",
+          "pyongs_count": 88,
+          "relationships_index_url": "https://genius.com/Ben-e-king-stand-by-me-sample",
+          "release_date_components": { "year": 1960, "month": 10, "day": 27 },
+          "release_date_for_display": "October 27, 1960",
+          "release_date_with_abbreviated_month_for_display": "Oct. 27, 1960",
+          "song_art_image_thumbnail_url": "https://images.genius.com/30f2c82ee0c5531ae44d1e8f5a3c9617.220x220x1.jpg",
+          "song_art_image_url": "https://images.genius.com/30f2c82ee0c5531ae44d1e8f5a3c9617.220x220x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 1,
+            "concurrents": 2,
+            "hot": false,
+            "pageviews": 2096673
+          },
+          "title": "Stand By Me",
+          "title_with_featured": "Stand By Me",
+          "url": "https://genius.com/Ben-e-king-stand-by-me-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/19688",
+            "header_image_url": "https://images.genius.com/469flyng83mlexo1nrpbo5qsn.500x418x1.jpg",
+            "id": 19688,
+            "image_url": "https://images.genius.com/469flyng83mlexo1nrpbo5qsn.500x418x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ben E. King",
+            "url": "https://genius.com/artists/Ben-e-king"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/19688",
+              "header_image_url": "https://images.genius.com/469flyng83mlexo1nrpbo5qsn.500x418x1.jpg",
+              "id": 19688,
+              "image_url": "https://images.genius.com/469flyng83mlexo1nrpbo5qsn.500x418x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ben E. King",
+              "url": "https://genius.com/artists/Ben-e-king"
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 7,
+          "api_path": "/songs/230086",
+          "artist_names": "Oasis",
+          "full_title": "Stand By Me by Oasis",
+          "header_image_thumbnail_url": "https://images.genius.com/bab350f3566c22addc6d1a65dc89f0d3.300x299x1.jpg",
+          "header_image_url": "https://images.genius.com/bab350f3566c22addc6d1a65dc89f0d3.600x597x1.jpg",
+          "id": 230086,
+          "lyrics_owner_id": 721779,
+          "lyrics_state": "complete",
+          "path": "/Oasis-stand-by-me-lyrics",
+          "primary_artist_names": "Oasis",
+          "pyongs_count": 13,
+          "relationships_index_url": "https://genius.com/Oasis-stand-by-me-sample",
+          "release_date_components": { "year": 1997, "month": 8, "day": 21 },
+          "release_date_for_display": "August 21, 1997",
+          "release_date_with_abbreviated_month_for_display": "Aug. 21, 1997",
+          "song_art_image_thumbnail_url": "https://images.genius.com/bab350f3566c22addc6d1a65dc89f0d3.300x299x1.jpg",
+          "song_art_image_url": "https://images.genius.com/bab350f3566c22addc6d1a65dc89f0d3.600x597x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 3,
+            "concurrents": 4,
+            "hot": false,
+            "pageviews": 714758
+          },
+          "title": "Stand By Me",
+          "title_with_featured": "Stand By Me",
+          "url": "https://genius.com/Oasis-stand-by-me-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/21100",
+            "header_image_url": "https://images.genius.com/03628574fa075d2be67ace5f5a7b80f6.300x139x1.png",
+            "id": 21100,
+            "image_url": "https://images.genius.com/3b639522f0c829a581595f0ab6f1f3a7.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Oasis",
+            "url": "https://genius.com/artists/Oasis",
+            "iq": 111
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/21100",
+              "header_image_url": "https://images.genius.com/03628574fa075d2be67ace5f5a7b80f6.300x139x1.png",
+              "id": 21100,
+              "image_url": "https://images.genius.com/3b639522f0c829a581595f0ab6f1f3a7.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Oasis",
+              "url": "https://genius.com/artists/Oasis",
+              "iq": 111
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 2,
+          "api_path": "/songs/9151632",
+          "artist_names": "Lil Durk (Ft. Morgan Wallen)",
+          "full_title": "Stand By Me by Lil Durk (Ft. Morgan Wallen)",
+          "header_image_thumbnail_url": "https://images.genius.com/1d9d47a7b4e881ef85e906b51b9e1419.300x300x1.png",
+          "header_image_url": "https://images.genius.com/1d9d47a7b4e881ef85e906b51b9e1419.999x999x1.png",
+          "id": 9151632,
+          "lyrics_owner_id": 14240235,
+          "lyrics_state": "complete",
+          "path": "/Lil-durk-stand-by-me-lyrics",
+          "primary_artist_names": "Lil Durk",
+          "pyongs_count": 2,
+          "relationships_index_url": "https://genius.com/Lil-durk-stand-by-me-sample",
+          "release_date_components": { "year": 2023, "month": 5, "day": 26 },
+          "release_date_for_display": "May 26, 2023",
+          "release_date_with_abbreviated_month_for_display": "May. 26, 2023",
+          "song_art_image_thumbnail_url": "https://images.genius.com/1d9d47a7b4e881ef85e906b51b9e1419.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/1d9d47a7b4e881ef85e906b51b9e1419.999x999x1.png",
+          "stats": {
+            "unreviewed_annotations": 2,
+            "hot": false,
+            "pageviews": 48231
+          },
+          "title": "Stand By Me",
+          "title_with_featured": "Stand By Me (Ft. Morgan Wallen)",
+          "url": "https://genius.com/Lil-durk-stand-by-me-lyrics",
+          "featured_artists": [
+            {
+              "api_path": "/artists/987153",
+              "header_image_url": "https://images.genius.com/928dda9a4be68b88d674ac3110e2bd51.1000x333x1.jpg",
+              "id": 987153,
+              "image_url": "https://images.genius.com/168eb58dcfb841c1dc52fd741939b846.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Morgan Wallen",
+              "url": "https://genius.com/artists/Morgan-wallen",
+              "iq": 455
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/21964",
+            "header_image_url": "https://images.genius.com/b8097f0d2205da855a16c468d1452b5d.800x1000x1.jpg",
+            "id": 21964,
+            "image_url": "https://images.genius.com/d017b30ef8c9bb362a7520bd1a103400.466x466x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Lil Durk",
+            "url": "https://genius.com/artists/Lil-durk",
+            "iq": 10256
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/21964",
+              "header_image_url": "https://images.genius.com/b8097f0d2205da855a16c468d1452b5d.800x1000x1.jpg",
+              "id": 21964,
+              "image_url": "https://images.genius.com/d017b30ef8c9bb362a7520bd1a103400.466x466x1.jpg",
+              "is_meme_verified": true,
+              "is_verified": true,
+              "name": "Lil Durk",
+              "url": "https://genius.com/artists/Lil-durk",
+              "iq": 10256
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 1,
+          "api_path": "/songs/1807286",
+          "artist_names": "Shafqat Amanat Ali (Ft. Clinton Cerejo, Shekhar Ravjiani & Vishal Dadlani)",
+          "full_title": "Dildaara (Stand By Me) by Shafqat Amanat Ali (Ft. Clinton Cerejo, Shekhar Ravjiani & Vishal Dadlani)",
+          "header_image_thumbnail_url": "https://images.genius.com/7e87d1d82fc2c8a30b7e438c4819cc9e.300x300x1.png",
+          "header_image_url": "https://images.genius.com/7e87d1d82fc2c8a30b7e438c4819cc9e.1000x1000x1.png",
+          "id": 1807286,
+          "lyrics_owner_id": 10610840,
+          "lyrics_state": "complete",
+          "path": "/Shafqat-amanat-ali-dildaara-stand-by-me-lyrics",
+          "primary_artist_names": "Shafqat Amanat Ali",
+          "pyongs_count": null,
+          "relationships_index_url": "https://genius.com/Shafqat-amanat-ali-dildaara-stand-by-me-sample",
+          "release_date_components": { "year": 2011, "month": 9, "day": 12 },
+          "release_date_for_display": "September 12, 2011",
+          "release_date_with_abbreviated_month_for_display": "Sep. 12, 2011",
+          "song_art_image_thumbnail_url": "https://images.genius.com/7e87d1d82fc2c8a30b7e438c4819cc9e.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/7e87d1d82fc2c8a30b7e438c4819cc9e.1000x1000x1.png",
+          "stats": {
+            "unreviewed_annotations": 1,
+            "hot": false,
+            "pageviews": 48075
+          },
+          "title": "Dildaara (Stand By Me)",
+          "title_with_featured": "Dildaara (Stand By Me) (Ft. Clinton Cerejo, Shekhar Ravjiani & Vishal Dadlani)",
+          "url": "https://genius.com/Shafqat-amanat-ali-dildaara-stand-by-me-lyrics",
+          "featured_artists": [
+            {
+              "api_path": "/artists/384048",
+              "header_image_url": "https://images.genius.com/a686e555e4721f87d15d8358a9015369.455x455x1.jpg",
+              "id": 384048,
+              "image_url": "https://images.genius.com/a686e555e4721f87d15d8358a9015369.455x455x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Vishal Dadlani",
+              "url": "https://genius.com/artists/Vishal-dadlani"
+            },
+            {
+              "api_path": "/artists/530080",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1728488573",
+              "id": 530080,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1728488573",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Shekhar Ravjiani",
+              "url": "https://genius.com/artists/Shekhar-ravjiani"
+            },
+            {
+              "api_path": "/artists/373317",
+              "header_image_url": "https://images.genius.com/8fa8eacfcf7684fc814ae725ebc58e20.1000x1000x1.jpg",
+              "id": 373317,
+              "image_url": "https://images.genius.com/8fa8eacfcf7684fc814ae725ebc58e20.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Clinton Cerejo",
+              "url": "https://genius.com/artists/Clinton-cerejo"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/384735",
+            "header_image_url": "https://images.genius.com/ba8859d030a85c075a3364da35fa01b0.800x450x1.jpg",
+            "id": 384735,
+            "image_url": "https://images.genius.com/98540925b75f06b2de66d97cd4f7d75a.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Shafqat Amanat Ali",
+            "url": "https://genius.com/artists/Shafqat-amanat-ali"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/384735",
+              "header_image_url": "https://images.genius.com/ba8859d030a85c075a3364da35fa01b0.800x450x1.jpg",
+              "id": 384735,
+              "image_url": "https://images.genius.com/98540925b75f06b2de66d97cd4f7d75a.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Shafqat Amanat Ali",
+              "url": "https://genius.com/artists/Shafqat-amanat-ali"
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 3,
+          "api_path": "/songs/2836607",
+          "artist_names": "Florence + the Machine",
+          "full_title": "Stand By Me by Florence + the Machine",
+          "header_image_thumbnail_url": "https://images.genius.com/997a9ec62676efb4f5dad1b5a1068f72.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/997a9ec62676efb4f5dad1b5a1068f72.1000x1000x1.jpg",
+          "id": 2836607,
+          "lyrics_owner_id": 219699,
+          "lyrics_state": "complete",
+          "path": "/Florence-the-machine-stand-by-me-lyrics",
+          "primary_artist_names": "Florence + the Machine",
+          "pyongs_count": 6,
+          "relationships_index_url": "https://genius.com/Florence-the-machine-stand-by-me-sample",
+          "release_date_components": { "year": 2016, "month": 8, "day": 12 },
+          "release_date_for_display": "August 12, 2016",
+          "release_date_with_abbreviated_month_for_display": "Aug. 12, 2016",
+          "song_art_image_thumbnail_url": "https://images.genius.com/997a9ec62676efb4f5dad1b5a1068f72.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/997a9ec62676efb4f5dad1b5a1068f72.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 39040
+          },
+          "title": "Stand By Me",
+          "title_with_featured": "Stand By Me",
+          "url": "https://genius.com/Florence-the-machine-stand-by-me-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/18512",
+            "header_image_url": "https://images.genius.com/fa5693ebdc436e92996c7558f1dd39a1.1000x380x1.jpg",
+            "id": 18512,
+            "image_url": "https://images.genius.com/a74184ac4cb8804bff93e3cff62bfbaa.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Florence + the Machine",
+            "url": "https://genius.com/artists/Florence-the-machine"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/18512",
+              "header_image_url": "https://images.genius.com/fa5693ebdc436e92996c7558f1dd39a1.1000x380x1.jpg",
+              "id": 18512,
+              "image_url": "https://images.genius.com/a74184ac4cb8804bff93e3cff62bfbaa.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Florence + the Machine",
+              "url": "https://genius.com/artists/Florence-the-machine"
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 2,
+          "api_path": "/songs/54654",
+          "artist_names": "Prince Royce",
+          "full_title": "Stand by Me by Prince Royce",
+          "header_image_thumbnail_url": "https://images.rapgenius.com/fd9af7f76cb35e3aec8710bdcc9fb196.300x300x1.jpg",
+          "header_image_url": "https://images.rapgenius.com/fd9af7f76cb35e3aec8710bdcc9fb196.953x953x1.jpg",
+          "id": 54654,
+          "lyrics_owner_id": 28156,
+          "lyrics_state": "complete",
+          "path": "/Prince-royce-stand-by-me-lyrics",
+          "primary_artist_names": "Prince Royce",
+          "pyongs_count": 15,
+          "relationships_index_url": "https://genius.com/Prince-royce-stand-by-me-sample",
+          "release_date_components": { "year": 2010, "month": 1, "day": 19 },
+          "release_date_for_display": "January 19, 2010",
+          "release_date_with_abbreviated_month_for_display": "Jan. 19, 2010",
+          "song_art_image_thumbnail_url": "https://images.rapgenius.com/fd9af7f76cb35e3aec8710bdcc9fb196.300x300x1.jpg",
+          "song_art_image_url": "https://images.rapgenius.com/fd9af7f76cb35e3aec8710bdcc9fb196.953x953x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 2,
+            "concurrents": 2,
+            "hot": false,
+            "pageviews": 47870
+          },
+          "title": "Stand by Me",
+          "title_with_featured": "Stand by Me",
+          "url": "https://genius.com/Prince-royce-stand-by-me-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/13246",
+            "header_image_url": "https://images.genius.com/17901b9d1768f2671388dd6ca7a635a2.1000x236x1.png",
+            "id": 13246,
+            "image_url": "https://images.genius.com/9991b6b852c95e5c993c49194e7ddb38.746x746x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Prince Royce",
+            "url": "https://genius.com/artists/Prince-royce",
+            "iq": 446
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/13246",
+              "header_image_url": "https://images.genius.com/17901b9d1768f2671388dd6ca7a635a2.1000x236x1.png",
+              "id": 13246,
+              "image_url": "https://images.genius.com/9991b6b852c95e5c993c49194e7ddb38.746x746x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Prince Royce",
+              "url": "https://genius.com/artists/Prince-royce",
+              "iq": 446
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 2,
+          "api_path": "/songs/318460",
+          "artist_names": "John Lennon",
+          "full_title": "Stand By Me by John Lennon",
+          "header_image_thumbnail_url": "https://images.genius.com/b6e140127430d96b8488f4fecc3b57eb.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/b6e140127430d96b8488f4fecc3b57eb.1000x1000x1.jpg",
+          "id": 318460,
+          "lyrics_owner_id": 354382,
+          "lyrics_state": "complete",
+          "path": "/John-lennon-stand-by-me-lyrics",
+          "primary_artist_names": "John Lennon",
+          "pyongs_count": 10,
+          "relationships_index_url": "https://genius.com/John-lennon-stand-by-me-sample",
+          "release_date_components": { "year": 1975, "month": 2, "day": 17 },
+          "release_date_for_display": "February 17, 1975",
+          "release_date_with_abbreviated_month_for_display": "Feb. 17, 1975",
+          "song_art_image_thumbnail_url": "https://images.genius.com/b6e140127430d96b8488f4fecc3b57eb.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/b6e140127430d96b8488f4fecc3b57eb.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 2,
+            "hot": false,
+            "pageviews": 31803
+          },
+          "title": "Stand By Me",
+          "title_with_featured": "Stand By Me",
+          "url": "https://genius.com/John-lennon-stand-by-me-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/16450",
+            "header_image_url": "https://images.genius.com/ba6c3cedeaffed43a230bdd00e8b3584.780x520x1.jpg",
+            "id": 16450,
+            "image_url": "https://images.genius.com/b9b239b31a345e8335e8d2397e505814.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "John Lennon",
+            "url": "https://genius.com/artists/John-lennon"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/16450",
+              "header_image_url": "https://images.genius.com/ba6c3cedeaffed43a230bdd00e8b3584.780x520x1.jpg",
+              "id": 16450,
+              "image_url": "https://images.genius.com/b9b239b31a345e8335e8d2397e505814.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "John Lennon",
+              "url": "https://genius.com/artists/John-lennon"
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 1,
+          "api_path": "/songs/2182918",
+          "artist_names": "Imagine Dragons",
+          "full_title": "Blank Space/Stand By Me (Live from Spotify London) by Imagine Dragons",
+          "header_image_thumbnail_url": "https://images.genius.com/825f6a8c0ed238ee903217c5be2f010d.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/825f6a8c0ed238ee903217c5be2f010d.770x770x1.jpg",
+          "id": 2182918,
+          "lyrics_owner_id": 344287,
+          "lyrics_state": "complete",
+          "path": "/Imagine-dragons-blank-space-stand-by-me-live-from-spotify-london-lyrics",
+          "primary_artist_names": "Imagine Dragons",
+          "pyongs_count": 2,
+          "relationships_index_url": "https://genius.com/Imagine-dragons-blank-space-stand-by-me-live-from-spotify-london-sample",
+          "release_date_components": { "year": 2015, "month": 4, "day": 20 },
+          "release_date_for_display": "April 20, 2015",
+          "release_date_with_abbreviated_month_for_display": "Apr. 20, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/825f6a8c0ed238ee903217c5be2f010d.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/825f6a8c0ed238ee903217c5be2f010d.770x770x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 22761
+          },
+          "title": "Blank Space/Stand By Me (Live from Spotify London)",
+          "title_with_featured": "Blank Space/Stand By Me (Live from Spotify London)",
+          "url": "https://genius.com/Imagine-dragons-blank-space-stand-by-me-live-from-spotify-london-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/29472",
+            "header_image_url": "https://images.genius.com/82ad6f083e86a7211b542a1abdd863c7.1000x422x1.jpg",
+            "id": 29472,
+            "image_url": "https://images.genius.com/a0b1c0ecfb9a958ded1f667233211d58.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Imagine Dragons",
+            "url": "https://genius.com/artists/Imagine-dragons"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/29472",
+              "header_image_url": "https://images.genius.com/82ad6f083e86a7211b542a1abdd863c7.1000x422x1.jpg",
+              "id": 29472,
+              "image_url": "https://images.genius.com/a0b1c0ecfb9a958ded1f667233211d58.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Imagine Dragons",
+              "url": "https://genius.com/artists/Imagine-dragons"
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 1,
+          "api_path": "/songs/1431059",
+          "artist_names": "SHINee",
+          "full_title": "Stand By Me by SHINee",
+          "header_image_thumbnail_url": "https://images.genius.com/806b186ee84aa967483636cfd4ba4e66.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/806b186ee84aa967483636cfd4ba4e66.640x640x1.jpg",
+          "id": 1431059,
+          "lyrics_owner_id": 5666335,
+          "lyrics_state": "complete",
+          "path": "/Shinee-stand-by-me-lyrics",
+          "primary_artist_names": "SHINee",
+          "pyongs_count": null,
+          "relationships_index_url": "https://genius.com/Shinee-stand-by-me-sample",
+          "release_date_components": { "year": 2009, "month": 1, "day": 8 },
+          "release_date_for_display": "January 8, 2009",
+          "release_date_with_abbreviated_month_for_display": "Jan. 8, 2009",
+          "song_art_image_thumbnail_url": "https://images.genius.com/806b186ee84aa967483636cfd4ba4e66.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/806b186ee84aa967483636cfd4ba4e66.640x640x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 21734
+          },
+          "title": "Stand By Me",
+          "title_with_featured": "Stand By Me",
+          "url": "https://genius.com/Shinee-stand-by-me-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/183121",
+            "header_image_url": "https://images.genius.com/eb3e6d6b44218845d6ff4d736cf2f694.1000x279x1.jpg",
+            "id": 183121,
+            "image_url": "https://images.genius.com/695a92887b539c2af7beb26289bbc400.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "SHINee",
+            "url": "https://genius.com/artists/Shinee"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/183121",
+              "header_image_url": "https://images.genius.com/eb3e6d6b44218845d6ff4d736cf2f694.1000x279x1.jpg",
+              "id": 183121,
+              "image_url": "https://images.genius.com/695a92887b539c2af7beb26289bbc400.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "SHINee",
+              "url": "https://genius.com/artists/Shinee"
+            }
+          ]
+        }
+      },
+      {
+        "highlights": [],
+        "index": "song",
+        "type": "song",
+        "result": {
+          "annotation_count": 0,
+          "api_path": "/songs/9424286",
+          "artist_names": "Fridayy",
+          "full_title": "Stand By Me by Fridayy",
+          "header_image_thumbnail_url": "https://images.genius.com/c2ad0527d3c97dc411faa195b97a4061.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/c2ad0527d3c97dc411faa195b97a4061.1000x1000x1.jpg",
+          "id": 9424286,
+          "lyrics_owner_id": 498964,
+          "lyrics_state": "complete",
+          "path": "/Fridayy-stand-by-me-lyrics",
+          "primary_artist_names": "Fridayy",
+          "pyongs_count": null,
+          "relationships_index_url": "https://genius.com/Fridayy-stand-by-me-sample",
+          "release_date_components": { "year": 2023, "month": 8, "day": 25 },
+          "release_date_for_display": "August 25, 2023",
+          "release_date_with_abbreviated_month_for_display": "Aug. 25, 2023",
+          "song_art_image_thumbnail_url": "https://images.genius.com/c2ad0527d3c97dc411faa195b97a4061.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/c2ad0527d3c97dc411faa195b97a4061.1000x1000x1.jpg",
+          "stats": {
+            "unreviewed_annotations": 0,
+            "hot": false,
+            "pageviews": 16207
+          },
+          "title": "Stand By Me",
+          "title_with_featured": "Stand By Me",
+          "url": "https://genius.com/Fridayy-stand-by-me-lyrics",
+          "featured_artists": [],
+          "primary_artist": {
+            "api_path": "/artists/2600051",
+            "header_image_url": "https://images.genius.com/e8a3d71fa2dc440632d403e7ed069d9d.720x900x1.jpg",
+            "id": 2600051,
+            "image_url": "https://images.genius.com/146edcff57823bb1d17be602b67fafb6.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Fridayy",
+            "url": "https://genius.com/artists/Fridayy"
+          },
+          "primary_artists": [
+            {
+              "api_path": "/artists/2600051",
+              "header_image_url": "https://images.genius.com/e8a3d71fa2dc440632d403e7ed069d9d.720x900x1.jpg",
+              "id": 2600051,
+              "image_url": "https://images.genius.com/146edcff57823bb1d17be602b67fafb6.1000x1000x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Fridayy",
+              "url": "https://genius.com/artists/Fridayy"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
